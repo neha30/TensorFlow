@@ -1,6 +1,6 @@
-Applying classification and clustering on different datasets using TensorFlow. 
+# Applying classification and clustering on different datasets using TensorFlow. 
 
-What is TensorFlow?
+## What is TensorFlow?
 “TensorFlow is an open source software library for numerical computation using dataflow graphs. Nodes in the graph represents mathematical operations, while graph edges represent multi-dimensional data arrays (aka tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API.”
 (https://www.tensorflow.org/)
 
